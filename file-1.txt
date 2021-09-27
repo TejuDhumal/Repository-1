@@ -2,6 +2,10 @@ Tejaswini Dhumal
 Pallavi khandagale
 Dnyaneshwari Jadhav
 Pratiksha Gaikwad
+<<<<<<< HEAD
 information technology
 hgdc,jgcjm
 hbisudfca
+=======
+TE IT 1
+>>>>>>> 293a4cc7f8b3d10439bd77749c827b297c66b43c
